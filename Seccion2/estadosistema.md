@@ -1,6 +1,5 @@
 10) Leer el estado del sistema (Administrador de tareas y comandos UNIX equivalentes).
-hay varios comandos que te ayudan a monitorear y gestionar el estado del sistema, esto con el fin de organizar como se usan los recursos de tu dispositivo,
-es muy util a la hora de decidir que quieres usar y que no, algunos de los comandos son:
+hay varios comandos que te ayudan a monitorear y gestionar el estado del sistema, esto con el fin de organizar como se usan los recursos de tu dispositivo, es muy util a la hora de decidir que quieres usar y que no, algunos de los comandos son:
 
 1) top: Muestra una lista continuamente actualizada de los procesos del sistema en orden de actividad de la CPU. Es muy útil para ver qué procesos están consumiendo más recursos.
 top
@@ -21,7 +20,7 @@ du -h /ruta/del/directorio
 6) free: Muestra la cantidad de memoria libre y usada en el sistema.
 free -h
 
-estsos comandos ayudaran al usuario a tener un desempeño mas eficaz de su dispositivo.
+estos comandos ayudaran al usuario a tener un desempeño mas eficaz de su dispositivo.
 
 
 
