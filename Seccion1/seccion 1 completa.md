@@ -109,5 +109,5 @@ VIM <archivo>: Nos permite editar archivos desde la terminal.
 7. Defensa a amenazas externas: Uso de firewalls, control en las aplicaciones, actualizaciones y parches de seguridad.
 8. Seguridad en redes: VPN y protocolos para una mejor seguridad en la red.
 9. Gestión de cuentas y políticas de seguridad: Políticas en las contraseñas y bloqueo de cuentas.
-10. Respaldo y recuperación ante desastres
+10. Respaldo y recuperación ante desastres.
 11. Defensa en profundidad, dividiéndola en capas para un mejor control.
