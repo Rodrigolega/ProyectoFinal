@@ -5,10 +5,10 @@
 En los comienzos los ordenadores eran programados de forma manual. En el siglo XX se desarrolló el primer sistema operativo y varios usuarios podían conectarse a él.
 
 Primer Nivel:
-Inicio del lenguaje de programación FORTRAN y se programa en tarjeta perforada y los sistemas operativos básicos.
+Inicio del lenguaje de programación FORTRAN, se programa en tarjeta perforada y los sistemas operativos son básicos.
 
 Segundo Nivel:
-En los años 60, aumenta el rendimiento del procesador. Aparecen los procesos on-line que es conectarse directamente a la computadora y off-line el cual el conectarse usando dispositivos más rápidos.
+En los años 60, aumenta el rendimiento del procesador. Aparecen los procesos on-line que es conectarse directamente a la computadora y off-line el cual es conectarse usando dispositivos más rápidos.
 
 Tercer nivel:
 En los 70 a 80 se crearon los sistemas operativos de disco que eran más fácil almacenar y podía realizar tareas más complejas rápidamente con mejor accesibilidad de uso. 
