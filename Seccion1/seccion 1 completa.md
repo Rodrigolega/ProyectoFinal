@@ -19,22 +19,28 @@ En los años 80 en adelante, uso de multiprocesadores, además de mejora en la s
 Ya para los 90 se inventaron los sistemas operativos con interfaz gráfica, como Windows, Linux y Mac OS y son mucho mejores en cuento a poder de procesamiento, almacenamiento entre otros aspectos.
 En los años siguientes los sistemas operativos se fuero adaptando a otros dispositivos como consolas, móviles, etc.
 
-3. Los administradores de tareas supervisan, instalan, mantiene y configuran servidores.
+3. Los administradores de sistemas son los profesionistas que se encargan de implementar, configurar, mantener, monitorizar, documentar y asegurar el correcto funcionamiento de un sistema.
+
+Profesionista que configura y mantiene la red y el sistema de una empresa.
 
 4. Los sistemas operativos manejan una gran variedad de servicios: 
     - Gestión de memoria.
+        Mejor aprovechamiento del espacio disponibles.
     - Gestión de procesos.
+        Control eficaz de los procesos, para un mejor rendimiento.
     - Gestión del sistema.
+        Control en los sistemas de entrada y salida.
     - Gestión de archivos y directorios.
+        Para un mejor rendimiento y visualización en cuanto a los datos.
 
 5. Dispositivos de entrada y de salida:
-    - Los dispositivos mandan o reciben datos en ondas eléctricas:
+    Los dispositivos mandan o reciben datos en ondas eléctricas:
     - Los de entrada son los que reciben estas señales, como teclados o el ratón.
     - Los de salida son los que mandan la información al usuario de forma que el usuario lo entienda, como tv, bocinas...
-    - Los mixtos mandan y reciben señales, como la pantalla de un celular.
+    - Los mixtos mandan y reciben señales, como la pantalla tactil de un celular.
 
 6. Manipulación de archivos y directorios
-Variedad de comandos para la manipulación estos:
+Variedad de comandos para la manipulación:
 pwd: Muestra la ruta donde estas ubicado.
 ls: Lista el contenido del directorio en el que estas.
 cd <directorio>: Te lleva al directorio (Debe estar dentro del directorio donde estas ubicado).
