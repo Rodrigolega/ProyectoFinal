@@ -58,24 +58,32 @@ find: Encuentra los archivos que coincidan con un criterio especifico.
 
 
 7. Comandos UNIX
+(Los comandos sin ejemplos se ponen tal cual estan escritos)
 
 Comandos básicos shell UNIX
-cd -- Sirve para cambiar de directorio según se le índice.
-cd newFolder -- Sirve para crear un nuevo directorio en la ruta actual.
-history -- muestra el historial de comandos escritos en terminal.
-rm fileName -- Elimina un archivo con el nombre indicado.
-vim fileName -- Abre un archivo con el editor vim.
-ls -- muestra los archivos que se encuentran en esa ruta.
-touch fileName -- Crea un archivo con el nombre que se le indica.
-pwd “Print Working Directory” -- Se utiliza para imprimir el nombre del directorio actual en 
-una sesión.
-ls -- Es el comando para enlistar todos los archivos o directorios dentro del directorio actual.
-ls -la -- Agrega informacion extra e incluye los archivos ocultos.
-make directoyName -- Sirve para crear un directorio con el nombre que se le especifica.
-git init -- inicializa un repositorio de git.
-git add . -- agrega todos los cambios nuevos que están en nuestra maquina local.
-git commit -m “mensaje” -- guarda un cambio de nuestro repositorio para subirlo a la nube.
-git push -- sube los cambios a nuestro cliente remoto por ejemplo githu.
+cd <folderName> -- Sirve para cambiar de directorio según se le índice.
+    Ejemplo: cd Documents/
+history <number> -- muestra el historial de comandos escritos en terminal.
+    Ejemplo: history 10
+rm <fileName> -- Elimina un archivo con el nombre indicado.
+    Ejemplo: rm Tarea1
+rm -r <folderName> -- Elimina un directorio.
+    Ejemplo: rm -r Tarea1
+vim <fileName> -- Abre un archivo con el editor vim.
+    Ejemplos: vim Tarea1
+touch <fileName> -- Crea un archivo con el nombre que se le indica.
+    Ejemplo: touch Tarea2
+mkdir <folderName> -- Crea un directorio en la ruta en la que estes.
+    Ejemplo: mkdir Materias
+pwd -- Se utiliza saber la ruta en la que estas.
+ls -- muestra todos los archivos y directorios que se encuentran en esa ruta.
+ls -la -- Agrega información extra e incluye los archivos ocultos.
+git init -- Inicializa un repositorio de git.
+git add . -- Agrega todos los cambios nuevos que realizamos al repositorio.
+git commit -m “mensaje” -- Guarda un cambio de nuestro repositorio para subirlo a la nube.
+    Ejemplo: git commit -m “description of the changes”
+git push -- Sube los cambios al repositorio.
+git pull -- Actualiza los datos que fueron subidos por colaboradores.
 
 
 8.  VIM, introducción y comandos básicos.
