@@ -4,18 +4,18 @@ Un sistema de archivos es una estructura que organiza y almacena datos en dispos
 
 #### Tipos Comunes de Sistemas de Archivos
 
-| *Sistema de Archivos* | *Descripción*                                                                                       | *Plataforma Común*             |
+| **Sistema de Archivos** | **Descripción**                                                                                       | **Plataforma Común**             |
 |--------------------------|-------------------------------------------------------------------------------------------------------|-----------------------------------|
-| *FAT*               | Sistema de archivos antiguo pero ampliamente compatible. Soporta archivos de hasta 4 GB y particiones de 8 TB. | Windows, Linux, macOS            |
-| *NTFS*                | Sistema moderno de Windows que soporta archivos grandes y características avanzadas como permisos y compresión. | Windows                          |
-| *APFS*                | Sistema moderno de archivos de Apple, optimizado para SSDs y con mejor gestión de snapshots y seguridad. | macOS                            |
-| *Btrfs*               | Sistema avanzado de Linux con características como snapshots, compresión y RAID nativo.               | Linux                            |
+| FAT               | Sistema de archivos antiguo pero ampliamente compatible. Soporta archivos de hasta 4 GB y particiones de 8 TB. | Windows, Linux, macOS            |
+| NTFS                | Sistema moderno de Windows que soporta archivos grandes y características avanzadas como permisos y compresión. | Windows                          |
+| APFS                | Sistema moderno de archivos de Apple, optimizado para SSDs y con mejor gestión de snapshots y seguridad. | macOS                            |
+| Btrfs               | Sistema avanzado de Linux con características como snapshots, compresión y RAID nativo.               | Linux                            |
 
 -----
 
 #### Comparación de Características
 
-| *Característica*        | *FAT* | *NTFS* |  *APFS* | *Btrfs* |
+|  Característica         |  FAT  |  NTFS  |   APFS  |  Btrfs  |
 |---------------------------|---------|----------|-----------|-----------|
 | Compatibilidad            | Alta    | Media    | Baja      | Baja      |
 | Tamaño máximo de archivo  | 4 GB    | 16 EB    | 8 EB      | 16 EB     |
