@@ -1,4 +1,5 @@
-2. 
+2. **Historia, generación y evolución**
+
 | **Nivel**            | **Descripción**                                                                                     |
 |----------------------|-----------------------------------------------------------------------------------------------------|
 | **En los comienzos**  | Los ordenadores eran programados de forma manual. El primer sistema operativo fue desarrollado, permitiendo que varios usuarios se conectaran a él. |

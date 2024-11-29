@@ -1,4 +1,5 @@
-4. 
+4. **Servicios del sistema operativo**
+
 | **Servicio**                  | **Descripción**                                                     |
 |-------------------------------|---------------------------------------------------------------------|
 | **Gestión de memoria**         | Mejor aprovechamiento del espacio disponible.                      |

@@ -4,7 +4,8 @@
 
    **Ejemplos**: Windows, Linux, Mac OS, entre otros.
 
-2. 
+2. **Historia, generación y evolución**
+
 | **Nivel**            | **Descripción**                                                                                     |
 |----------------------|-----------------------------------------------------------------------------------------------------|
 | **En los comienzos**  | Los ordenadores eran programados de forma manual. El primer sistema operativo fue desarrollado, permitiendo que varios usuarios se conectaran a él. |
@@ -18,7 +19,9 @@
 
    Profesionista que configura y mantiene la red y el sistema de una empresa.
 
-4. 
+
+4. **Servicios del sistema operativo**
+
 | **Servicio**                  | **Descripción**                                                     |
 |-------------------------------|---------------------------------------------------------------------|
 | **Gestión de memoria**         | Mejor aprovechamiento del espacio disponible.                      |
