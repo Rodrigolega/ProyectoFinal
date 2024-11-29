@@ -1,26 +1,47 @@
-10) Leer el estado del sistema (Administrador de tareas y comandos UNIX equivalentes).
-hay varios comandos que te ayudan a monitorear y gestionar el estado del sistema, esto con el fin de organizar como se usan los recursos de tu dispositivo, es muy util a la hora de decidir que quieres usar y que no, algunos de los comandos son:
+# Leer el estado del sistema (Administrador de tareas y comandos UNIX equivalentes)
 
-1) top: Muestra una lista continuamente actualizada de los procesos del sistema en orden de actividad de la CPU. Es muy útil para ver qué procesos están consumiendo más recursos.
+Existen varios comandos que permiten monitorear y gestionar el estado del sistema. Estos comandos ayudan a organizar cómo se usan los recursos del dispositivo y son muy útiles para decidir qué procesos o servicios utilizar o detener. A continuación, se describen algunos de los comandos más comunes:
+
+## 1. `top`
+Muestra una lista continuamente actualizada de los procesos del sistema, ordenados por actividad de la CPU. Es especialmente útil para identificar qué procesos están consumiendo más recursos.
+
+````
+c
 top
+````
+## 2. ps
+Proporciona información sobre los procesos en ejecución. Usando diferentes opciones, puedes obtener más detalles sobre cada proceso.
 
-2) ps: Muestra información sobre los procesos que se están ejecutando. Puedes usar diferentes opciones para obtener más detalles.
+Por ejemplo, para listar todos los procesos con información detallada, puedes usar:
+````
 ps aux
+````
+## 3. htop
+Es similar a top, pero ofrece una interfaz más amigable con opciones de navegación avanzadas. Antes de usarlo, necesitarás instalarlo.
 
-3) htop: Similar a top, pero con una interfaz más amigable y opciones de navegación más avanzadas. Necesitarás instalarlo primero.
+Para instalarlo en sistemas basados en Debian, usa:
+````
+c
 sudo apt-get install htop
+````
+y para ejecutarlo:
+````
+c
 htop
+````
+## 4. df
+Muestra información sobre el uso del espacio en disco de los sistemas de archivos montados.
 
-4) df: Muestra el uso del espacio en disco de los sistemas de archivos montados.
+Por ejemplo, para mostrar los datos en un formato legible para humanos:
+````
+c
 df -h
+````
+## 5. du
+Permite visualizar el uso del espacio en disco por directorios y subdirectorios.
 
-5) du: Muestra el uso del espacio en disco de los directorios y sus subdirectorios.
+Por ejemplo, para ver el tamaño de un directorio específico de forma legible:
+````
+c
 du -h /ruta/del/directorio
-
-6) free: Muestra la cantidad de memoria libre y usada en el sistema.
-free -h
-
-estos comandos ayudaran al usuario a tener un desempeño mas eficaz de su dispositivo.
-
-
-
+````
