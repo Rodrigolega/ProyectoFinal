@@ -10,7 +10,8 @@ Los datos persistentes son aquellos que se guardan en un medio de almacenamiento
 
 1. **Durabilidad:** Los datos permanecen almacenados incluso si el sistema se apaga.
 2. **Acceso repetido:** Los datos pueden recuperarse en cualquier momento, siempre que el almacenamiento sea accesible.
-3. **Formatos comunes:** Los datos persistentes suelen almacenarse en bases de datos, archivos XML, o sistemas de almacenamiento más complejos.
+3. **Formatos comunes:** Los datos persistentes suelen almacenarse en bases de datos, archivos (JSON, XML, CSV), o sistemas de almacenamiento más complejos.
+<img src="https://d33wubrfki0l68.cloudfront.net/f8b4c1b5fc312255370e98911a32e7051f1304d4/fe1f0/assets/images/integration/xml-csv-json2.png" alt="Ejemplo" width="300" />
 
 ---
 
@@ -19,4 +20,5 @@ Los datos persistentes son aquellos que se guardan en un medio de almacenamiento
 - **Sin persistencia:** Si trabajas en un documento en tu computadora y no lo guardas, al cerrar el programa, todo el trabajo se pierde.
 - **Con persistencia:** Si guardas el documento en el disco duro, puedes cerrarlo y volver a abrirlo más tarde para continuar donde lo dejaste.
 
-<img src="mi-imagen.png" alt="Descripción de la imagen" width="300" />
+---
+
