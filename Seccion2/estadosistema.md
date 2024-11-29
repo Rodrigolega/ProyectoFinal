@@ -6,7 +6,6 @@ Existen varios comandos que permiten monitorear y gestionar el estado del sistem
 Muestra una lista continuamente actualizada de los procesos del sistema, ordenados por actividad de la CPU. Es especialmente útil para identificar qué procesos están consumiendo más recursos.
 
 ````
-c
 top
 ````
 ## 2. ps
@@ -21,12 +20,10 @@ Es similar a top, pero ofrece una interfaz más amigable con opciones de navegac
 
 Para instalarlo en sistemas basados en Debian, usa:
 ````
-c
 sudo apt-get install htop
 ````
 y para ejecutarlo:
 ````
-c
 htop
 ````
 ## 4. df
@@ -34,7 +31,6 @@ Muestra información sobre el uso del espacio en disco de los sistemas de archiv
 
 Por ejemplo, para mostrar los datos en un formato legible para humanos:
 ````
-c
 df -h
 ````
 ## 5. du
@@ -42,6 +38,5 @@ Permite visualizar el uso del espacio en disco por directorios y subdirectorios.
 
 Por ejemplo, para ver el tamaño de un directorio específico de forma legible:
 ````
-c
 du -h /ruta/del/directorio
 ````
