@@ -26,10 +26,12 @@ La virtualización es una tecnología que permite crear versiones virtuales de r
 
 ### Beneficios de la Virtualización
 
-- *Eficiencia en el uso de recursos*: Aprovecha al máximo el hardware físico.
-- *Ahorro de costos*: Reduce la necesidad de múltiples dispositivos físicos.
-- *Escalabilidad*: Facilita la adición de recursos según la demanda.
-- *Facilidad de administración*: Simplifica el mantenimiento y la configuración.
-- *Aislamiento*: Cada máquina virtual funciona de manera independiente, mejorando la seguridad y estabilidad.
+- Aprovecha al máximo el hardware físico.
+- Reduce la necesidad de múltiples dispositivos físicos.
+- Simplifica el mantenimiento y la configuración.
+- Cada máquina virtual funciona de manera independiente, mejorando la seguridad y estabilidad.
+
+<img src="https://www.interviewbit.com/blog/wp-content/uploads/2022/05/Desktop-Virtualization.png" alt="Ejemplo" width="300" />
+
 
 -----
