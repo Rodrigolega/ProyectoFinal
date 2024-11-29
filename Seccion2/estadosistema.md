@@ -18,7 +18,7 @@ ps aux
 ## 3. htop
 Es similar a top, pero ofrece una interfaz más amigable con opciones de navegación avanzadas. Antes de usarlo, necesitarás instalarlo.
 
-Para instalarlo en sistemas basados en Debian, usa:
+Para instalarlo se usa:
 ````
 sudo apt-get install htop
 ````
@@ -29,7 +29,7 @@ htop
 ## 4. df
 Muestra información sobre el uso del espacio en disco de los sistemas de archivos montados.
 
-Por ejemplo, para mostrar los datos en un formato legible para humanos:
+Por ejemplo, para mostrar los datos en un formato legible:
 ````
 df -h
 ````
