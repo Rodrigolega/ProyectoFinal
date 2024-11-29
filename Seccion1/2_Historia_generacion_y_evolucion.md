@@ -1,18 +1,8 @@
-2. **Historia, generaciones y evolución**:
-
-   En los comienzos los ordenadores eran programados de forma manual. En el siglo XX se desarrolló el primer sistema operativo y varios usuarios podían conectarse a él.
-
-   ### Primer Nivel:
-   - Inicio del lenguaje de programación FORTRAN, se programa en tarjeta perforada y los sistemas operativos son básicos.
-
-   ### Segundo Nivel:
-   - En los años 60, aumenta el rendimiento del procesador. Aparecen los procesos on-line (conectarse directamente a la computadora) y off-line (conectarse usando dispositivos más rápidos).
-
-   ### Tercer Nivel:
-   - En los 70 a 80 se crearon los sistemas operativos de disco, que eran más fáciles de almacenar y podían realizar tareas más complejas rápidamente con mejor accesibilidad de uso.
-   - Los procesadores pueden ejecutar varios programas en un mismo procesador.
-
-   ### Cuarto Nivel:
-   - En los años 80 en adelante, uso de multiprocesadores, además de mejora en la seguridad de la conexión por las conexiones en paralelo.
-   - Ya para los 90 se inventaron los sistemas operativos con interfaz gráfica, como Windows, Linux y Mac OS, y son mucho mejores en cuanto a poder de procesamiento, almacenamiento, entre otros aspectos.
-   - En los años siguientes, los sistemas operativos se fueron adaptando a otros dispositivos como consolas, móviles, etc.
+2. 
+| **Nivel**            | **Descripción**                                                                                     |
+|----------------------|-----------------------------------------------------------------------------------------------------|
+| **En los comienzos**  | Los ordenadores eran programados de forma manual. El primer sistema operativo fue desarrollado, permitiendo que varios usuarios se conectaran a él. |
+| **Primer Nivel**      | Inicio del lenguaje de programación FORTRAN, se programa en tarjeta perforada y los sistemas operativos son básicos. Se usaban tarjetas perforadas y los sistemas operativos eran básicos. |
+| **Segundo Nivel**     | En los años 60, aumento del rendimiento del procesador. Se introducen los procesos on-line (conexión directa) y off-line (uso de dispositivos más rápidos). El aumento de rendimiento del procesador permitió estos avances. |
+| **Tercer Nivel**      | En los 70-80 se crean los sistemas operativos de disco, mejorando almacenamiento y accesibilidad. Los procesadores podían ejecutar múltiples programas, lo que permitió mejorar la accesibilidad y el procesamiento. |
+| **Cuarto Nivel**      | Desde los años 80 en adelante, se usan multiprocesadores y se mejoran las conexiones en seguridad. Se introdujeron sistemas operativos con interfaz gráfica (Windows, Linux, Mac OS) y adaptación a nuevos dispositivos como consolas y móviles. |
