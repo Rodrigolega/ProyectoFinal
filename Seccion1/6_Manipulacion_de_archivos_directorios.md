@@ -9,7 +9,7 @@
 | **cd ..**     | Te regresa 1 directorio antes.                                                                           |
 | **cp**        | Copia ya sea directorios o archivos.                                                                     |
 | **mv**        | Mueve de ubicación a los directorios y archivos.                                                         |
-| **rm**        | Puede eliminar ya sea directorios o archivos.                                                           |
+| **rm**        | Puede eliminar archivos.                                                                                 |
 | **mkdir**     | Crea directorios.                                                                                       |
 | **touch**     | Crea archivos.                                                                                          |
 | **rmdir**     | Elimina un directorio solo si este está vacío.                                                           |
